@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        var str_sen = new String("the quick brown fox");
+        var str_split = new String(" ");
+        var str_res1 = new String(" ");
+
+        var str_split = str_sen.split(" ");
+        for (var j = 0; j < str_split.length; j++) {
+            str_res1 += str_split[j].charAt(0).toUpperCase() + str_split[j].slice(1, str_split[j].length).toLowerCase() + " ";
+        }
+
+        console.log("before                     " + str_sen);
+        console.log("after with split function              " + str_res1);
+
+    </script>
+</head>
+
+<body>
+
+</body>
+</html>

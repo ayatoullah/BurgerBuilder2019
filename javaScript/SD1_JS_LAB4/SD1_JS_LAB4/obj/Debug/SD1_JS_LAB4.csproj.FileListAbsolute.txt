@@ -1,0 +1,9 @@
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\bin\SD1_JS_LAB4.dll.config
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\bin\SD1_JS_LAB4.dll
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\bin\SD1_JS_LAB4.pdb
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\obj\Debug\SD1_JS_LAB4.csprojResolveAssemblyReference.cache
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\obj\Debug\SD1_JS_LAB4.csproj.CoreCompileInputs.cache
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\obj\Debug\SD1_JS_LAB4.dll
+c:\users\hanan\source\repos\SD1_JS_LAB4\SD1_JS_LAB4\obj\Debug\SD1_JS_LAB4.pdb

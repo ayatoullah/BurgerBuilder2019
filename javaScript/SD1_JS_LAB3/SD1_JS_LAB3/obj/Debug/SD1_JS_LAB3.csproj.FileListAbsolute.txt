@@ -1,0 +1,9 @@
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\bin\SD1_JS_LAB3.dll.config
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\bin\SD1_JS_LAB3.dll
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\bin\SD1_JS_LAB3.pdb
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\obj\Debug\SD1_JS_LAB3.csprojResolveAssemblyReference.cache
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\obj\Debug\SD1_JS_LAB3.csproj.CoreCompileInputs.cache
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\obj\Debug\SD1_JS_LAB3.dll
+c:\users\hanan\source\repos\SD1_JS_LAB3\SD1_JS_LAB3\obj\Debug\SD1_JS_LAB3.pdb
